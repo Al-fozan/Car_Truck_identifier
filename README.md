@@ -41,7 +41,7 @@ A simple desktop app that uses AI to tell if an image shows a car or truck.
 
 ## Screenshots
 
-*Add a screenshot of your app here*
+![Car_Truck_identifier](images/Screenshot_1.png)
 
 ## Requirements
 
